@@ -1,4 +1,4 @@
-# Basic usage of Hamming Distance to analyse cities wrote on XLSX file.
+# Basic usage of Hamming Distance to analyze cities wrote on XLSX file.
 
 
 import pandas as pd
